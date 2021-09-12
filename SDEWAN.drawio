@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T13:12:09.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Kg4ar58UIWOQadgpwb9F" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-12T13:15:25.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="YvPurn6JJNQL5JIr23As" version="15.1.4" type="github">
   <diagram id="uPRll6M5eb0Z-0uBqnHo" name="Page-1">
     <mxGraphModel dx="954" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -558,6 +558,12 @@
         </mxCell>
         <mxCell id="fcIH0-72oSz8u45Yj2zX-13" value="SNAT&amp;nbsp; -d 192.168.0.2 -&amp;gt; 10.10.70.49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="806.0000049167361" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="fcIH0-72oSz8u45Yj2zX-15" value="SNAT&amp;nbsp; -d 172.16.70.16 -&amp;gt; 192.168.0.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="783.0000049167361" y="2107" as="geometry" />
+        </mxCell>
+        <mxCell id="fcIH0-72oSz8u45Yj2zX-16" value="DNAT&amp;nbsp; -d 192.168.0.2 -&amp;gt; 172.16.70.25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1446.000004916736" y="1998" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T15:14:51.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="EFWaxxCAf_T8SNOI2WDa" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-12T15:15:53.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="-vCERsAzoAwKOEm7XNKM" version="15.1.4" type="github">
   <diagram id="uPRll6M5eb0Z-0uBqnHo" name="Page-1">
     <mxGraphModel dx="1670" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -545,9 +545,9 @@
             <mxPoint x="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fcIH0-72oSz8u45Yj2zX-3" value="Control Plane&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fcIH0-72oSz8u45Yj2zX-2">
+        <mxCell id="fcIH0-72oSz8u45Yj2zX-3" value="Control Plane&amp;nbsp;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fcIH0-72oSz8u45Yj2zX-2">
           <mxGeometry x="0.2444" y="-1" relative="1" as="geometry">
-            <mxPoint x="-96" y="-1" as="offset" />
+            <mxPoint x="-109" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fcIH0-72oSz8u45Yj2zX-4" value="" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="fcIH0-72oSz8u45Yj2zX-7">
@@ -556,7 +556,7 @@
             <mxPoint x="90" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fcIH0-72oSz8u45Yj2zX-5" value="Data&amp;nbsp;Plane&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fcIH0-72oSz8u45Yj2zX-4">
+        <mxCell id="fcIH0-72oSz8u45Yj2zX-5" value="Data&amp;nbsp;Plane&amp;nbsp;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fcIH0-72oSz8u45Yj2zX-4">
           <mxGeometry x="0.2444" y="-1" relative="1" as="geometry">
             <mxPoint x="-96" y="-1" as="offset" />
           </mxGeometry>

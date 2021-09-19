@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T04:45:28.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="XS1npvTPjvE5e8a0oXHB" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-19T04:46:43.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="9I0BLcAO2vFh5MIlz_ZI" version="15.2.9" type="github">
   <diagram id="uPRll6M5eb0Z-0uBqnHo" name="Page-1">
     <mxGraphModel dx="1287" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
         <mxCell id="_BiiGx_ub_-qpmht187N-39" value="APP" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=#9AC7BF;fontSize=18;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="1657" width="397.43" height="133.14" as="geometry" />
         </mxCell>
-        <mxCell id="_BiiGx_ub_-qpmht187N-41" value="&lt;span style=&quot;text-align: center&quot;&gt;etho: 10.233.112.76/32&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;container=0;fillColor=#f8cecc;align=left;" parent="1" vertex="1">
+        <mxCell id="_BiiGx_ub_-qpmht187N-41" value="&lt;span style=&quot;text-align: center&quot;&gt;etho: 10.233.70.10/32&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;container=0;fillColor=#f8cecc;align=left;" parent="1" vertex="1">
           <mxGeometry x="345.28541976746715" y="1718.0007756822433" width="132.14458023253295" height="24.04614954517096" as="geometry" />
         </mxCell>
         <mxCell id="L997ZeRYN2pQayARa3w6-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#66B2FF;strokeWidth=2;" edge="1" parent="1" source="_BiiGx_ub_-qpmht187N-42" target="L997ZeRYN2pQayARa3w6-23">
@@ -598,11 +598,6 @@
         </mxCell>
         <mxCell id="L997ZeRYN2pQayARa3w6-146" value="SNAT&amp;nbsp; -d 10.10.70.39:10001-&amp;gt; 192.169.0.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="553.0000049167361" y="1616" as="geometry">
-            <mxPoint x="13" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L997ZeRYN2pQayARa3w6-148" value="DNAT&amp;nbsp; -d 192.169.0.2:80 -&amp;gt; 172.16.70.19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="552.0000049167361" y="1757.07" as="geometry">
             <mxPoint x="13" y="3" as="offset" />
           </mxGeometry>
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T17:02:39.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="rqyFO4j2SBINk8GHB05M" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T17:29:59.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="CbOILQhihYlJRqQ5-UOU" version="15.5.9" type="github">
   <diagram id="_Mf6lnb294Ap30HItGFO" name="Page-1">
     <mxGraphModel dx="3802" dy="1446" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -502,7 +502,7 @@
           <mxGeometry x="-303" y="2846" width="368" height="48" as="geometry" />
         </mxCell>
         <mxCell id="MQd_5bnmDIc5tsxT34og-61" value="&lt;b&gt;&lt;i&gt;ServiceEnry&lt;/i&gt;&lt;/b&gt;:&amp;nbsp;&lt;b&gt;edge2-hello-se&lt;/b&gt;&lt;br&gt;&lt;b&gt;host&lt;/b&gt;:&amp;nbsp;&lt;i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;hello-se.edge2.com&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ip&lt;/b&gt;:&amp;nbsp;&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;192.169.0.2&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;port: 80" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="414.02" y="2960" width="174" height="71" as="geometry" />
+          <mxGeometry x="421.5" y="2733" width="174" height="71" as="geometry" />
         </mxCell>
         <mxCell id="MQd_5bnmDIc5tsxT34og-62" value="&lt;b&gt;&lt;i&gt;Endpoint&lt;/i&gt;&lt;/b&gt;: &lt;b&gt;edge2-hello-host&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;ip: &lt;b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;192.169.0.1&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;port: 80" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="215" y="2725.05" width="161" height="54" as="geometry" />

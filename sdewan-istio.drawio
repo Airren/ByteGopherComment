@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T05:54:10.569Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lYNyXp-xSk3XGTWZX9E_" version="15.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-11-03T05:55:52.874Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="jOQ_lam-Xm6USyRcN-sI" version="15.6.6" type="github" pages="7">
   <diagram id="_Mf6lnb294Ap30HItGFO" name="Page-1">
     <mxGraphModel dx="3447" dy="1259" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1060,14 +1060,8 @@
         <mxCell id="_F6R0eV1cBFi39NofzBo-19" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;labelBackgroundColor=default;fontColor=default;fillColor=default;" vertex="1" parent="-6aC4TJ11DeRmUnJZ2HH-1">
           <mxGeometry x="376" y="263" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_F6R0eV1cBFi39NofzBo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="-6aC4TJ11DeRmUnJZ2HH-1" source="_F6R0eV1cBFi39NofzBo-20" target="_F6R0eV1cBFi39NofzBo-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_F6R0eV1cBFi39NofzBo-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=default;fontColor=default;strokeColor=#007FFF;fillColor=default;strokeWidth=3;" vertex="1" parent="-6aC4TJ11DeRmUnJZ2HH-1">
+        <mxCell id="_F6R0eV1cBFi39NofzBo-20" value="HTTP Request on Hub&amp;nbsp; Host" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=default;fontColor=default;strokeColor=#007FFF;fillColor=default;strokeWidth=3;" vertex="1" parent="-6aC4TJ11DeRmUnJZ2HH-1">
           <mxGeometry x="-141" y="620" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_F6R0eV1cBFi39NofzBo-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=default;fontColor=default;strokeColor=#007FFF;fillColor=default;strokeWidth=3;" vertex="1" parent="-6aC4TJ11DeRmUnJZ2HH-1">
-          <mxGeometry x="-141" y="760" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

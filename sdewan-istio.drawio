@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T17:15:52.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="cHTFeT4kq9ZtJWcGX2Lo" version="15.7.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-11-09T17:38:03.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OrTkUGJg0heNRImMgaAv" version="15.7.0" type="github" pages="7">
   <diagram id="_Mf6lnb294Ap30HItGFO" name="Page-1">
     <mxGraphModel dx="4255" dy="1554" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1506,7 +1506,7 @@
         <mxCell id="ivc3dI3sS8z0D2D9lgPu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=10;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#3399FF;strokeWidth=2;" parent="BbW8mfzkyZ58VhpgMtX2-1" source="ivc3dI3sS8z0D2D9lgPu-61" target="ivc3dI3sS8z0D2D9lgPu-68" edge="1">
           <mxGeometry x="122.00210571289062" y="61.59" as="geometry" />
         </mxCell>
-        <mxCell id="lyQJCd3OqD8oFFMi0IKu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#A680B8;strokeWidth=2;" edge="1" parent="BbW8mfzkyZ58VhpgMtX2-1" source="ivc3dI3sS8z0D2D9lgPu-70" target="_b7H4QNDbe6kFjQ4_Max-4">
+        <mxCell id="lyQJCd3OqD8oFFMi0IKu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#33FF33;strokeColor=#A680B8;strokeWidth=2;" edge="1" parent="BbW8mfzkyZ58VhpgMtX2-1" source="ivc3dI3sS8z0D2D9lgPu-70" target="_b7H4QNDbe6kFjQ4_Max-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ivc3dI3sS8z0D2D9lgPu-70" value="&lt;b&gt;&lt;i&gt;Gateway&lt;/i&gt;&lt;/b&gt;: &lt;b&gt;edge-hello-gateway-tls&lt;/b&gt;&lt;br&gt;&lt;b&gt;server:&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; host: &lt;/b&gt;&lt;font color=&quot;#3399ff&quot; style=&quot;font-weight: bold&quot;&gt;&lt;i&gt;&lt;u&gt;*.hello.com&lt;br&gt;&lt;/u&gt;&lt;/i&gt;&lt;/font&gt;&lt;b&gt;&amp;nbsp; tls:&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; mode: &lt;/b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-weight: bold&quot;&gt;MUTUAL&lt;/font&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; caCertificates:&amp;nbsp; &lt;/b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;ca.cert&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; privateKey:&amp;nbsp;&lt;/b&gt; &lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;*.hello.com.tls.key&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; serverCertificate: &lt;/b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;*hello.com.tls.cert&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="BbW8mfzkyZ58VhpgMtX2-1" vertex="1">
@@ -1644,7 +1644,7 @@
             <mxPoint x="1194.5358233560823" y="157.54263179386658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lyQJCd3OqD8oFFMi0IKu-29" value="Edge-1" style="rounded=1;whiteSpace=wrap;fontSize=16;verticalAlign=top;arcSize=3;dashed=1;container=0;fillColor=none;fontColor=default;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">
+        <mxCell id="lyQJCd3OqD8oFFMi0IKu-29" value="Edge-2" style="rounded=1;whiteSpace=wrap;fontSize=16;verticalAlign=top;arcSize=3;dashed=1;container=0;fillColor=none;fontColor=default;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">
           <mxGeometry x="1100" y="514" width="570" height="300" as="geometry" />
         </mxCell>
         <mxCell id="lyQJCd3OqD8oFFMi0IKu-30" value="&lt;b&gt;&lt;i&gt;Pod&lt;/i&gt;&lt;/b&gt;: &lt;b&gt;CNF&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=#9AC7BF;fontSize=12;container=0;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=default;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">

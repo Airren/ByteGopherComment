@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T18:40:23.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="v1da9doc5fwuCA-I7_HT" version="15.7.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-11-09T18:41:46.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EcxUgKb0Ofz0GCfOswVr" version="15.7.0" type="github" pages="8">
   <diagram id="_Mf6lnb294Ap30HItGFO" name="Page-1">
     <mxGraphModel dx="4255" dy="1554" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1274,7 +1274,7 @@
           <mxGeometry x="-825" y="219.1361691284178" width="131" height="25" as="geometry" />
         </mxCell>
         <mxCell id="SdNgTNWUNd0CslB5Y8qh-19" value="from all to &lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;192.169.0.0&lt;/font&gt;&lt;/b&gt;/24 lookup 40&lt;br style=&quot;font-size: 10px&quot;&gt;default via 10.233.110.226 dev cali092f42a4e14" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=80.56;dy=19;boundedLbl=1;align=left;fontSize=10;container=0;direction=west;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-1">
-          <mxGeometry x="-589.9978942871094" y="627.79" width="368" height="48" as="geometry" />
+          <mxGeometry x="-439.9978942871094" y="630.79" width="368" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SdNgTNWUNd0CslB5Y8qh-20" value="Edge-1" style="rounded=1;whiteSpace=wrap;fontSize=16;verticalAlign=top;arcSize=3;dashed=1;container=0;fillColor=none;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-1">
           <mxGeometry x="210.00210571289062" y="90" width="378" height="276" as="geometry" />
@@ -1560,18 +1560,6 @@
             <mxPoint x="249.02582335608258" y="224.04263179386635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdNgTNWUNd0CslB5Y8qh-97" value="" style="group" vertex="1" connectable="0" parent="SdNgTNWUNd0CslB5Y8qh-1">
-          <mxGeometry x="-462.51" y="408" width="432.51" height="172" as="geometry" />
-        </mxCell>
-        <mxCell id="SdNgTNWUNd0CslB5Y8qh-98" value="&lt;b&gt;&lt;i&gt;VirtualService&lt;/i&gt;&lt;/b&gt;: &lt;b&gt;edge-hello-se-vs-lb&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;host:&lt;/b&gt; &lt;i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;hello-se-lb.edge.com&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;b&gt;route:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; - destination:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; host: &lt;font color=&quot;#3399ff&quot;&gt;hello-se.edge1.com&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; weight: 50&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; - destination:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; host: &lt;font color=&quot;#3399ff&quot;&gt;hello-se.edge2.com&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; weight: 50&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(102 , 102 , 255)&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-97">
-          <mxGeometry width="432.51000000000005" height="172" as="geometry" />
-        </mxCell>
-        <mxCell id="SdNgTNWUNd0CslB5Y8qh-54" value="&lt;b&gt;&lt;i&gt;ServiceEnry&lt;/i&gt;&lt;/b&gt;:&amp;nbsp;&lt;b&gt;edge1-hello-se&lt;/b&gt;&lt;br&gt;&lt;b&gt;host&lt;/b&gt;:&amp;nbsp;&lt;i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;hello-se.edge1.com&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ip&lt;/b&gt;:&amp;nbsp;&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;192.169.0.1&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;port: 80" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-97">
-          <mxGeometry x="204.49" y="14.158536585365855" width="174" height="74.46341463414635" as="geometry" />
-        </mxCell>
-        <mxCell id="SdNgTNWUNd0CslB5Y8qh-53" value="&lt;b&gt;&lt;i&gt;ServiceEnry&lt;/i&gt;&lt;/b&gt;:&amp;nbsp;&lt;b&gt;edge2-hello-se&lt;/b&gt;&lt;br&gt;&lt;b&gt;host&lt;/b&gt;:&amp;nbsp;&lt;i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;hello-se.edge2.com&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ip&lt;/b&gt;:&amp;nbsp;&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;192.169.0.2&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;port: 80" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-97">
-          <mxGeometry x="204.48999999999995" y="97.53658536585367" width="174" height="74.46341463414635" as="geometry" />
-        </mxCell>
         <mxCell id="SdNgTNWUNd0CslB5Y8qh-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=10;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#007FFF;strokeWidth=2;dashed=1;dashPattern=1 1;" edge="1" parent="SdNgTNWUNd0CslB5Y8qh-1" source="SdNgTNWUNd0CslB5Y8qh-54" target="SdNgTNWUNd0CslB5Y8qh-65">
           <mxGeometry x="-701.9978942871094" y="92" as="geometry">
             <Array as="points">
@@ -1586,10 +1574,19 @@
         <mxCell id="SdNgTNWUNd0CslB5Y8qh-102" value="POSTROUTING -d 192.169.0.2/32 -j &lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;SNAT&lt;/font&gt;&lt;/b&gt; --to-source 10.10.70.39 -t nat &lt;br style=&quot;font-size: 10px&quot;&gt;POSTROUTING -d 192.169.0.1/32 -j &lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;SNAT&lt;/font&gt;&lt;/b&gt; --to-source 10.10.70.39 -t nat" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=80.56;dy=19;boundedLbl=1;align=left;fontSize=10;container=0;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-1">
           <mxGeometry x="-181.99789428710938" y="152" width="368" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="SdNgTNWUNd0CslB5Y8qh-98" value="&lt;b&gt;&lt;i&gt;VirtualService&lt;/i&gt;&lt;/b&gt;: &lt;b&gt;edge-hello-se-vs-lb&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;host:&lt;/b&gt; &lt;i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;hello-se-lb.edge.com&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;b&gt;route:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; - destination:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; host: &lt;font color=&quot;#3399ff&quot;&gt;hello-se.edge1.com&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; weight: 50&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; - destination:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; host: &lt;font color=&quot;#3399ff&quot;&gt;hello-se.edge2.com&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; weight: 50&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(102 , 102 , 255)&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-1">
+          <mxGeometry x="-462.51" y="408" width="432.51000000000005" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="SdNgTNWUNd0CslB5Y8qh-54" value="&lt;b&gt;&lt;i&gt;ServiceEnry&lt;/i&gt;&lt;/b&gt;:&amp;nbsp;&lt;b&gt;edge1-hello-se&lt;/b&gt;&lt;br&gt;&lt;b&gt;host&lt;/b&gt;:&amp;nbsp;&lt;i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;hello-se.edge1.com&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ip&lt;/b&gt;:&amp;nbsp;&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;192.169.0.1&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;port: 80" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-1">
+          <mxGeometry x="-249.99999999999997" y="415.0785365853659" width="174" height="74.46341463414635" as="geometry" />
+        </mxCell>
+        <mxCell id="SdNgTNWUNd0CslB5Y8qh-53" value="&lt;b&gt;&lt;i&gt;ServiceEnry&lt;/i&gt;&lt;/b&gt;:&amp;nbsp;&lt;b&gt;edge2-hello-se&lt;/b&gt;&lt;br&gt;&lt;b&gt;host&lt;/b&gt;:&amp;nbsp;&lt;i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;hello-se.edge2.com&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ip&lt;/b&gt;:&amp;nbsp;&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;192.169.0.2&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;port: 80" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="SdNgTNWUNd0CslB5Y8qh-1">
+          <mxGeometry x="-250.00000000000003" y="498.4565853658537" width="174" height="74.46341463414635" as="geometry" />
+        </mxCell>
         <mxCell id="SdNgTNWUNd0CslB5Y8qh-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=10;fontColor=#66B2FF;strokeColor=#3399FF;strokeWidth=2;dashed=1;dashPattern=1 1;" edge="1" parent="SdNgTNWUNd0CslB5Y8qh-1" source="SdNgTNWUNd0CslB5Y8qh-53" target="SdNgTNWUNd0CslB5Y8qh-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-171" y="620" />
+              <mxPoint x="-163" y="620" />
               <mxPoint x="-39" y="620" />
             </Array>
           </mxGeometry>

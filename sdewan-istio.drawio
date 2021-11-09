@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T16:20:14.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Attgi5uw23eNSSLr5dEr" version="15.7.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-11-09T16:21:40.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WxSf_BJWFOfV0Uh6VDz7" version="15.7.0" type="github" pages="8">
   <diagram id="_Mf6lnb294Ap30HItGFO" name="Page-1">
     <mxGraphModel dx="4255" dy="1554" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1868,9 +1868,6 @@
             <mxPoint x="-20" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ivc3dI3sS8z0D2D9lgPu-98" value="&lt;b&gt;&lt;i&gt;VirtualService&lt;/i&gt;&lt;/b&gt;: &lt;b&gt;edge1-hello-se-vs-tls&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;hosts&lt;/b&gt;: &lt;b&gt;&lt;font color=&quot;#6666ff&quot; style=&quot;font-style: italic&quot;&gt;tls-edge1.hello.com&lt;/font&gt;&lt;br&gt;destination&lt;i&gt;:&lt;/i&gt;&lt;font color=&quot;#6666ff&quot; style=&quot;font-style: italic&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;i&gt;&lt;b&gt;&lt;font color=&quot;#6666ff&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/font&gt;host:&lt;font color=&quot;#6666ff&quot;&gt; tls-edge1.hello.com&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;labelBorderColor=none;fontSize=12;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="BbW8mfzkyZ58VhpgMtX2-1" vertex="1">
-          <mxGeometry x="635.49" y="1130" width="257.51" height="82" as="geometry" />
-        </mxCell>
         <mxCell id="lyQJCd3OqD8oFFMi0IKu-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;mTLS&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;container=0;labelBackgroundColor=default;fontColor=#3399FF;strokeColor=default;" vertex="1" connectable="0" parent="BbW8mfzkyZ58VhpgMtX2-1">
           <mxGeometry x="580.0021106296267" y="241.09" as="geometry">
             <mxPoint x="-20" y="1" as="offset" />
@@ -1938,7 +1935,7 @@
         <mxCell id="lyQJCd3OqD8oFFMi0IKu-32" value="net2: 10.10.70.29/24" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;container=0;align=left;fillColor=#99FF99;fontSize=10;fontColor=default;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">
           <mxGeometry x="1259.0237176431917" y="602.0871506481367" width="106.97289365248938" height="23.91096229145962" as="geometry" />
         </mxCell>
-        <mxCell id="lyQJCd3OqD8oFFMi0IKu-33" value="PREROUTING -d 192.169.0.1/32 -p tcp -m tcp --dport 8443 -j DNAT --to-destination 10.96.126.234:443 -t nat" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=14.19;dy=15;boundedLbl=1;align=left;fontSize=10;container=0;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">
+        <mxCell id="lyQJCd3OqD8oFFMi0IKu-33" value="PREROUTING -d 192.169.0.2/32 -p tcp -m tcp --dport 8443 -j DNAT --to-destination 10.96.126.234:443 -t nat" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=14.19;dy=15;boundedLbl=1;align=left;fontSize=10;container=0;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">
           <mxGeometry x="1400" y="544" width="344" height="48" as="geometry" />
         </mxCell>
         <mxCell id="lyQJCd3OqD8oFFMi0IKu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=default;strokeColor=#FF3333;strokeWidth=2;" edge="1" parent="BbW8mfzkyZ58VhpgMtX2-1" source="lyQJCd3OqD8oFFMi0IKu-31" target="lyQJCd3OqD8oFFMi0IKu-35">
@@ -1973,7 +1970,7 @@
         <mxCell id="lyQJCd3OqD8oFFMi0IKu-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#66B2FF;strokeWidth=1;startArrow=classic;startFill=1;shape=link;fontColor=default;" edge="1" parent="BbW8mfzkyZ58VhpgMtX2-1" source="lyQJCd3OqD8oFFMi0IKu-41" target="lyQJCd3OqD8oFFMi0IKu-42">
           <mxGeometry x="1445" y="708" as="geometry" />
         </mxCell>
-        <mxCell id="lyQJCd3OqD8oFFMi0IKu-44" value="ip r add 10.10.70.39/32 via 172.16.70.19 dev net0" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=216.47;dy=14;boundedLbl=1;fontSize=10;fontColor=default;align=left;direction=west;container=0;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">
+        <mxCell id="lyQJCd3OqD8oFFMi0IKu-44" value="ip r add 10.10.70.39/32 via 172.16.70.29 dev net0" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=216.47;dy=14;boundedLbl=1;fontSize=10;fontColor=default;align=left;direction=west;container=0;" vertex="1" parent="BbW8mfzkyZ58VhpgMtX2-1">
           <mxGeometry x="1460" y="782" width="240" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T09:37:48.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hxbuDtaVerYXBNXxcS9f" version="15.7.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-11-10T09:38:21.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Id9H72CfSckVAmxCyLCp" version="15.7.0" type="github" pages="8">
   <diagram id="_Mf6lnb294Ap30HItGFO" name="Page-1">
     <mxGraphModel dx="4015" dy="1554" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1930,7 +1930,7 @@
         <mxCell id="zHfaM_ra-WoFndqeCy_B-0" value="Cert Chain" style="rounded=1;whiteSpace=wrap;fontSize=16;verticalAlign=top;arcSize=3;dashed=1;container=0;fillColor=none;fontColor=default;fontStyle=1" vertex="1" parent="9-d8FkyO_BsAfHJ2_iwE-1">
           <mxGeometry x="-108" y="528" width="354" height="300.09" as="geometry" />
         </mxCell>
-        <mxCell id="9-d8FkyO_BsAfHJ2_iwE-2" value="                              Hub IP:10.95.62.175" style="rounded=1;whiteSpace=wrap;fontSize=16;verticalAlign=top;arcSize=3;dashed=1;container=0;fillColor=none;align=left;" vertex="1" parent="9-d8FkyO_BsAfHJ2_iwE-1">
+        <mxCell id="9-d8FkyO_BsAfHJ2_iwE-2" value=" Hub" style="rounded=1;whiteSpace=wrap;fontSize=16;verticalAlign=top;arcSize=3;dashed=1;container=0;fillColor=none;align=center;" vertex="1" parent="9-d8FkyO_BsAfHJ2_iwE-1">
           <mxGeometry x="304" y="110" width="620" height="850" as="geometry" />
         </mxCell>
         <mxCell id="9-d8FkyO_BsAfHJ2_iwE-3" value="10.10.70.39 ===&amp;nbsp;&lt;i style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;192.169.0.1&lt;/b&gt;&lt;/i&gt;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;container=0;labelBackgroundColor=default;fontColor=default;" vertex="1" connectable="0" parent="9-d8FkyO_BsAfHJ2_iwE-1">

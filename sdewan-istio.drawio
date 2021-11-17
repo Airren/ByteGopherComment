@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T09:29:02.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="kqFS815kStdmAyd9XaIQ" version="15.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-11-17T09:29:28.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="7-IengbWuAJS19OE8lyx" version="15.7.4" type="github" pages="6">
   <diagram id="qebBKXmFRDSxDgZQ0WR1" name="ServiceEntry-LB">
     <mxGraphModel dx="4015" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1209,7 +1209,8 @@
               <mxPoint x="849" y="420" />
               <mxPoint x="849" y="533" />
               <mxPoint x="389" y="533" />
-              <mxPoint x="389" y="637" />
+              <mxPoint x="389" y="629" />
+              <mxPoint x="441" y="629" />
             </Array>
           </mxGeometry>
         </mxCell>
